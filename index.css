@@ -17,7 +17,7 @@ html,body {
 }
 
 .title {
-    margin-bottom: 2px;
+    margin-bottom: 5px;
     text-decoration: underline;
     font-size: 12px;
 }
@@ -65,4 +65,11 @@ font-family: monospace;
 a:hover {
   color: #ccc;
   text-decoration: none;
+}
+
+#pfp {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 5px;
+  border-radius: 30px;
 }
