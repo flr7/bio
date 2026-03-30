@@ -73,3 +73,12 @@ a:hover {
   margin-bottom: 5px;
   border-radius: 30px;
 }
+
+#song-playing {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    font-size: 12px;
+    color: white;
+  margin-left: 5px;
+}
